@@ -1,0 +1,14 @@
+## Interface: 80100
+## Title: |cff1784d1ElvUI |rAutoHideChat
+## Notes: Automatically hides the ElvUI Chat Panels when in combat.
+## Version: 1.0.0
+## Author: Waitless
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+libs\LibElvUIPlugin-1.0\LibElvUIPlugin-1.0.lua
+ElvUI_AutoHideChat.lua
+
+
+## X-Tukui-ProjectID: xxx
+## X-Tukui-ProjectFolders: ElvUI_AutoHideChat
